@@ -5,12 +5,13 @@ import{
   StyleSheet
 } from "react-native"
 
-class home-screen extends React.Componet {
+class VIP React.Componet {
   render(){
     return(
       <View>
-        <Text> Hello From home-screen</Text>
-      </View> 
+
+        <Text> Hello From VIP </Text>
+      </View>  
       )
   }
 }

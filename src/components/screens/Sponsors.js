@@ -5,11 +5,11 @@ import{
   StyleSheet
 } from "react-native"
 
-class home-screen extends React.Componet {
+class Sponsors extends React.Componet {
   render(){
     return(
       <View>
-        <Text> Hello From home-screen</Text>
+        <Text> Hello From Sponsors</Text>
       </View> 
       )
   }
